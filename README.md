@@ -10,3 +10,6 @@ The article talks about the various educational strategies institutions use to m
 * The Social Construction of Reality 
 
 and elucidate how these strategies revolve around these themes. 
+
+## Social Hierarchy of Culture and Labour
+In this term paper, I try to define what **culture** really is, and how the chasm between intellectual and physical labour leads to the creation of a social pyramid of culture and labour.  I also offer my take on whether I personally believe in such a division of labour and whether treating certain cultures as formidable and some as insignificant is justified. 
