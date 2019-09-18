@@ -14,9 +14,13 @@ Short notes on
 - Social Mobility
 
 ## notes-3
-Short notes on the theories of stratification
+Very short notes on the theories of stratification
 - Functionalist theory
 - Conflict theory
+- Symbolic interactionism
+
+## notes-4
+Delving deeper into the functionalist theory of stratification
 
 References:
 1. https://courses.lumenlearning.com/sociology/ (Mostly taken from here)
