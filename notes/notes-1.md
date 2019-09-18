@@ -1,7 +1,7 @@
-# Stratification - I
+# Stratification
 (thanks to https://courses.lumenlearning.com/sociology/chapter/what-is-social-stratification/)
 
-## What is this?
+## What is Stratification?
 - Google defines stratification as the arrangement or classification of something into different groups. For instance in a sentence, *wealth is the main symbol of social stratification*.
 -  Sociologists use the term social stratification to describe the system of **social standing**. It refers to a society’s categorization of its people into rankings of socioeconomic tiers based on factors like wealth, income, race, education, and power.
 - In geology, stratification are the distinct vertical layers found in rocks, much like social structure. **Society’s layers are made of people**, and society’s resources are distributed unevenly throughout the layers. The people who have more resources represent the top layer of the social structure of stratification. Other groups of people, with progressively fewer and fewer resources, represent the lower layers of our society.
