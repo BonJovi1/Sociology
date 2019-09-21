@@ -34,6 +34,14 @@ Davis and Moore believed that the system serves society as a whole because it al
 - Marx saw workers experience deep alienation, isolation and misery resulting from powerless status levels. Marx argued that proletariats were oppressed by the money-hungry bourgeois.
 - Conflict theorists believe that the strained working relationship between employers and employees still exists. Capitalists own the means of production, and a system is in place to make business owners rich and keep workers poor. According to conflict theorists, the resulting stratification creates class conflict. If he were alive in today’s economy, as it recovers from a prolonged recession, Marx would likely have argued that the recession resulted from the greed of capitalists, satisfied at the expense of working people.
 
+## Weberian Theory 
+
+## Weber:
+Max Weber took issue with Marx’s seemingly simplistic view of stratification. Weber argued that owning property, such as factories or equipment, is only part of what determines a person’s social class. Social class for Weber included power and prestige, in addition to property or wealth. Weber argued that property can bring prestige, since people tend to hold rich people in high regard. Prestige can also come from other sources, such as athletic or intellectual ability. In those instances, prestige can lead to property, if people are willing to pay for access to prestige. For Weber, wealth and prestige are intertwined.
+
+Weber believed that social class is also a result of power, which is merely the ability of an individual to get his or her way, despite opposition. Wealthy people tend to be more powerful than poor people, and power can come from an individual’s prestige.
+Arnold Schwarzenegger enjoyed prestige as a bodybuilder and as an actor, and he was also enormously wealthy. When he was elected governor of California in 2004, he became powerful as well.
+
 ## Symbolic Interactionism
 - Symbolic interactionism is a theory that uses everyday interactions of individuals to explain society as a whole. Symbolic interactionism examines stratification from a micro-level perspective. This analysis strives to explain how people’s social standing affects their everyday interactions.
 - In most communities, people interact primarily with others who share the same social standing. It is precisely because of social stratification that people tend to live, work, and associate with others like themselves.

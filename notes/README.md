@@ -20,7 +20,7 @@ Very short notes on the theories of stratification
 - Symbolic interactionism
 
 ## notes-4
-Delving deeper into the functionalist theory of stratification
+Delving deeper into the Marxist theory of stratification
 
 References:
 1. https://courses.lumenlearning.com/sociology/ (Mostly taken from here)
