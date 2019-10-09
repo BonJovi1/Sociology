@@ -17,3 +17,7 @@ In this essay, I try to define what **culture** really is, and how the chasm bet
 ## 3. "You see me as I am?"
 
 This essay gives a sociological perspective to an episode of Black Mirror, a British science fiction television series. So if you haven't seen episode number 5 of season 3 (Men against Fire), then **spoiler alert**. I look into some of the very essential concepts of sociology including structure and agency, discourse and deviance using the storyline, the characters and the dialogue in the episode. The episode turned out to be more sociological than science fiction! 
+
+## 4. Role of caste in India
+
+This essay attempts to characterize the role of caste in modern Indian scoiety, and how even though discrimination based on caste has been banned according to the constitution, caste continues to play a significant role in the political and economic spheres of life in India.
