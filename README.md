@@ -21,3 +21,6 @@ This essay gives a sociological perspective to an episode of Black Mirror, a Bri
 ## 4. Role of caste in India
 
 This essay attempts to characterize the role of caste in modern Indian scoiety, and how even though discrimination based on caste has been banned according to the constitution, caste continues to play a significant role in the political and economic spheres of life in India.
+
+## 5. Political Legitimacy
+
