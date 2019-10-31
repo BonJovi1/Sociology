@@ -24,4 +24,4 @@ This essay attempts to characterize the role of caste in modern Indian scoiety, 
 
 ## 5. Political Legitimacy
 
-How does political legitimacy get mobilised in contemporary India? This essay attempts to answer this question by looking at the MGR phenomenon in Tamil Nadu. 
+How does political legitimacy get mobilised in contemporary India? How do the rulers exercise authority and obtain the consent of the people? This essay attempts to answer this question by looking at the MGR phenomenon in Tamil Nadu, and an interesting article about the Hindu majoritarianism prevalent in India written by Christophe Jaffrelot, which can be found [here.](https://indianexpress.com/article/opinion/columns/hindu-rashtra-de-facto-bjp-rss-gau-rakshak-mob-lynching-5301083/) 
