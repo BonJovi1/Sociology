@@ -32,5 +32,5 @@ How does political legitimacy get mobilised in contemporary India? How do the ru
 Score: 17.0/20.0
 
 ## 6. Development Models
-Analysing the development model of the city of Rourkela with the advent of industrialization and urbabnization, using Amartya Sen's notion of development as freedom. 
+Analysing the development model of the city of Rourkela with the advent of industrialization and urbabnization, using Amartya Sen's notion of development as freedom, and the 'means' and 'ends' of development. Also using Walt Rostow's development model and airplane analogy to understand the development in Rourkela in post-independent India. 
 Score: 17.5/20.0
