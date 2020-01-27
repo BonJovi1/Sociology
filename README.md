@@ -1,7 +1,7 @@
-# Sociological Essays
+# Sociology
 
 Apart from Computer Science, I've always had a fondness for certain Human Sciences, especially Sociology, which is simply the study of society and culture.
-The fact that it's about our **everyday lives** is what entices me towards it. Here you will find some essays that I've written as part of the Sociology course at IIIT. 
+The fact that it's about our **everyday lives** is what entices me towards it. Here you will find some essays that I've written as part of the Sociology course at IIIT, Hyderabad.
 
 ## 1. The Chosen Ones
 This is the first one that I wrote, and so far, my favourite. It is based on an article written by Malcolm Gladwell, which can be found [here.](https://www.newyorker.com/magazine/2005/10/10/getting-in)
